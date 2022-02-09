@@ -1,0 +1,54 @@
+/* ==================================Services */
+.what-i-do-img{
+    height: 500px;
+    width: 500px;
+}
+.service {
+  box-shadow: 0 0 1px rgb(160, 158, 158);
+  padding: 10px;
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid rgba(128, 128, 128, 0.2);
+}
+.service:hover{
+    transform: scale(1.02);
+    transition: all 0.3s;
+    border: 2px solid rgba(48, 49, 48, 0.5);
+    cursor: pointer;
+    border-radius: 10px 0 10px 0;
+}
+.service h1 {
+  font-size: 24px;
+  font-weight: 500;
+}
+.service img {
+  height: 120px;
+  width: 120px;
+}
+/* ==================================skills */
+
+.skills .col-md-8{
+  background-color: #6fe1c6;
+  box-shadow:0 0 5px rgba(48, 45, 45, 0.5);
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+  padding: 50px 100px;
+}
+
+
+
+
+.experience .col-md-8{
+  background-color: rgba(211, 9, 19, 0.616);
+  box-shadow:0 0 5px rgba(48, 45, 45, 0.479);
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  padding: 50px 100px;
+  color: white;
+}
+.skills li{
+  list-style-type: none;
+}
+
+

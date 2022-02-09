@@ -1,0 +1,20 @@
+h1{
+    font-size: 24px !important;
+    font-weight: 700 !important;
+}
+h2{
+    font-size: 20px !important;
+    font-weight: 700 !important;
+}
+
+input{
+    height: 40px;
+    margin-top: 15px !important;
+    padding-left: 20px;
+    border: 2px solid gray !important;
+}
+textarea{
+    margin-top: 15px !important;
+    padding-left: 20px;
+    border: 2px solid gray !important;
+}

@@ -1,0 +1,47 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+  }
+  .navbar-toggler {
+    outline: none;
+    box-shadow: none;
+  }
+  .navbar {
+    background-color: #00524B;
+  }
+  .navbar-brand {
+    color: rgb(247, 239, 239) !important;
+    font-size: 30px !important;
+    padding: 10px;
+    font-weight: 500;
+    font-weight: bold;
+  }
+  .nav-link {
+    color: rgb(190, 189, 189) !important;
+  }
+  .navbar-toggler:focus {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+
+  
+  .contact-me-box{
+    height: 200px;
+    background-color:tomato;
+  }
+  .contact-form{
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.548) !important;
+    padding: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: -100px;
+    background-color: white;
+    border-radius: 15px;
+  }
+
+  .footer{
+    background-color: #00524B;
+  }
